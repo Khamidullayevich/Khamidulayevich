@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khamidulayevich
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning university
+- 🌱 I’m currently learning C# 
 
 
 <!---
